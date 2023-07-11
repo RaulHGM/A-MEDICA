@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(230, 251, 73);
+}
+
+        .seccion-final {
+          display: flex;
+          justify-content: space-around;
+        }
+        .seccion-final__parrafo {
+          border: 1px solid;
+        }
+      
