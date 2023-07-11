@@ -49,7 +49,7 @@ function guardar() {
                     }
 
                 } else {
-                    // NUEVOS PACIENTES
+                    // NUEVOS PACIENTES PARA ATENCION MEDICA
                     tablaPaciente.push(objPaciente);
                 }
 
