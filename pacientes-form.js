@@ -37,7 +37,7 @@ function guardar() {
                     
                 });
                 console.log(objPaciente);
-                //EDITAR
+                //EDITAR DATOS DEL PACIENTE
                 if (idForm > 0) {
                     for (const i in tablaPaciente) {
                         var varPaciente = JSON.parse(tablaPaciente[i]);
